@@ -18,7 +18,7 @@ Tesla historical stock data from Yahoo Finance (2015–2026)
 - Dense output layer
 
 ## Results
-- RMSE: (your RMSE value here)
+- RMSE: 23.7147
 - Model successfully captures trend and price movement patterns
 
 ## Files
